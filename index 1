@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Link JavaScript Example</title>
+</head>
+<body>
+  <h1>Hello from Dept of CAI</h1>
+  <center><h1>Welcome to FSD - II Lab</h1></center>
+  <center><h2>Here we are learning Full Stack Development using HTML, CSS, and JavaScript</h2></center>
+
+  <!-- Link to external JavaScript file -->
+  <script src="script.js"></script>
+</body>
+</html>
+console.log("Hello from JavaScript!");
+alert("JavaScript is successfully linked!");
